@@ -85,6 +85,7 @@ sub {
 }
 img {
   border: 0;
+  max-width: 100%;
 }
 svg:not(:root) {
   overflow: hidden;
@@ -217,6 +218,7 @@ th {
   tr,
   img {
     page-break-inside: avoid;
+    max-width: 100%;
   }
   img {
     max-width: 100% !important;
@@ -306,6 +308,7 @@ figure {
 }
 img {
   vertical-align: middle;
+  max-width: 100%;
 }
 .img-responsive,
 .thumbnail > img,
