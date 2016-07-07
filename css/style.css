@@ -21,11 +21,11 @@ body a{
 	color: #FFFFFF;
 	padding: 0.2em 1.5em;
 	font-size: 0.875em;
-	font-weight: 800;
+	font-weight: 200;
+	font-family:"微软雅黑";
 	text-align: center;
 	text-transform: uppercase;
 	position: relative;
-	font-weight: 900;
 }
 .top-nav ul li a:hover{
 	color:#0B1016;
@@ -128,6 +128,7 @@ nav a#pull {
 	}
 	.top-nav ul li a {
 		color: #2C3E50;
+	    font-family:"微软雅黑";
 		padding: 0em 0;
 	}
 }
