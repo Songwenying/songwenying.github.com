@@ -20,7 +20,7 @@ body a{
 .top-nav ul li a{
 	color: #FFFFFF;
 	padding: 0.2em 1.5em;
-	font-size: 0.875em;
+	font-size: 1.3em;
 	font-weight: 800;
 	font-family:"Calibri Light";
 	text-align: center;
@@ -184,8 +184,8 @@ nav a#pull {
 }
 a.bannner-btn{
 	background: #CFA000;
-	color: #000000
-	;
+	color: #000000;
+	font-family:"Calibri Light";
 	display: inline-block;
 	font-weight: 900;
 	padding: 0.8em 2em;
@@ -880,6 +880,7 @@ div.caption p{
 	a.bannner-btn {
 		padding: 0.8em 1.5em;
 		font-size: 0.9em;
+	    font-family:"Calibri Light";
 	}
 	.about-head p label {
 		font-size: 1.1em;
