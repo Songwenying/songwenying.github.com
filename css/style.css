@@ -155,12 +155,14 @@ nav a#pull {
 .banner-info p{
 	color:#FFF;
 	font-size:2.2em;
+	font-family:"微软雅黑";
 	font-weight:600;
 	margin:0;
 }
 .banner-info h1{
 	font-size: 6em;
 	font-weight: 900;
+	font-family:"微软雅黑";
 	margin: 0;
 	padding: 0;
 	color: #FFF;
@@ -350,6 +352,7 @@ div.caption p{
 /*----contact---*/
 .contact-head h2{
 	color:#CF9000;
+	font-family:"微软雅黑";
 	font-weight:900;
 	font-size:4.3em;
 	margin:0;
@@ -363,6 +366,7 @@ div.caption p{
 }
 .contact-head p{
 	color: #7E8287;
+	font-family:"微软雅黑";
 	font-size: 1.2em;
 	font-weight: 300;
 	width: 40%;
