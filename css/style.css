@@ -331,16 +331,17 @@ a.bannner-btn:hover{
 div.caption{
 	position:absolute;
 	top:0px;
-	width:100%;
-	background:#CFC000;
+	width:100%;	background:#CFC000;
 }
 div.caption h4{
 	font-size:1.2em;
+	font-family:"微软雅黑";
 	color:#FFF;
 	font-weight:bold;
 }
 div.caption p{
 	color:#FFF;
+	font-family:"微软雅黑";
 	line-height:1.4em;
 }
 .works-grids{
@@ -586,6 +587,7 @@ div.caption p{
 	.banner-info p {
 		font-size: 1.8em;
 	}
+
 	.about-grids {
 		padding: 0em 0 0em;
 	}
