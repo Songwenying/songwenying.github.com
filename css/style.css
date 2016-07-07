@@ -315,7 +315,7 @@ a.bannner-btn:hover{
 	position:relative;
 }
 .works-grid img{
-	width:100%;
+	max-width:100% ;
 }
 .works-grid div.caption{
 	display:none;
