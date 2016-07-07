@@ -227,9 +227,12 @@ th {
   h3 {
     orphans: 3;
     widows: 3;
+    font-family:"Calibri Light";
   }
   h2,
   h3 {
+    
+    font-family:"Calibri Light";
     page-break-after: avoid;
   }
   select {
@@ -419,6 +422,7 @@ h2 .small,
 h3 .small,
 .h3 .small {
   font-size: 65%;
+  font-family:"Calibri Light";
 }
 h4,
 .h4,
